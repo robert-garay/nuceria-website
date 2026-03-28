@@ -40,14 +40,14 @@
 - [x] Contact page with form and hours
 - [x] Build verified: ✅ passing
 
-### Phase 3: Services (In Progress)
-- [ ] Goal landing page templates (4 pages)
+### Phase 3: Services ✅ MOSTLY COMPLETE
+- [x] Service data structure (TypeScript)
+- [x] Goal landing page templates (4 pages)
 - [ ] Service detail page template
-- [ ] Service content data structure
 - [ ] Generate all 35+ service pages
 - [ ] Breadcrumb implementation
 
-### Phase 4: Booking & Team
+### Phase 4: Booking & Team (In Progress)
 - [ ] Multi-step booking form (/book)
 - [ ] HRT intake questionnaire
 - [ ] Team listing page
